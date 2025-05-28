@@ -1,0 +1,117 @@
+sales_channel,count,percentage,trip_type,flight_day,booking_origin
+Internet,44382,88.76,,,
+Mobile,5618,11.24,,,
+,49497,98.99,RoundTrip,,
+,387,0.77,OneWay,,
+,116,0.23,CircleTrip,,
+,8102,16.2,,Mon,
+,7674,15.35,,Wed,
+,7673,15.35,,Tue,
+,7424,14.85,,Thu,
+,6761,13.52,,Fri,
+,6554,13.11,,Sun,
+,5812,11.62,,Sat,
+,17872,35.74,,,Australia
+,7174,14.35,,,Malaysia
+,4559,9.12,,,South Korea
+,3885,7.77,,,Japan
+,3387,6.77,,,China
+,2369,4.74,,,Indonesia
+,2077,4.15,,,Taiwan
+,2030,4.06,,,Thailand
+,1270,2.54,,,India
+,1074,2.15,,,New Zealand
+,1044,2.09,,,Singapore
+,456,0.91,,,United States
+,388,0.78,,,Vietnam
+,304,0.61,,,Macau
+,295,0.59,,,Hong Kong
+,266,0.53,,,Philippines
+,173,0.35,,,United Kingdom
+,167,0.33,,,Brunei
+,132,0.26,,,Cambodia
+,84,0.17,,,(not set)
+,73,0.15,,,Sri Lanka
+,58,0.12,,,Italy
+,59,0.12,,,France
+,57,0.11,,,Germany
+,57,0.11,,,Canada
+,51,0.1,,,Myanmar (Burma)
+,46,0.09,,,Netherlands
+,44,0.09,,,Mauritius
+,42,0.08,,,United Arab Emirates
+,40,0.08,,,Nepal
+,36,0.07,,,Saudi Arabia
+,36,0.07,,,Bangladesh
+,32,0.06,,,Russia
+,25,0.05,,,Laos
+,27,0.05,,,Spain
+,18,0.04,,,Switzerland
+,17,0.03,,,Chile
+,15,0.03,,,Qatar
+,14,0.03,,,Iran
+,8,0.02,,,Poland
+,8,0.02,,,Austria
+,9,0.02,,,Ireland
+,8,0.02,,,Czech Republic
+,8,0.02,,,Finland
+,8,0.02,,,Mongolia
+,8,0.02,,,Maldives
+,9,0.02,,,Mexico
+,9,0.02,,,Brazil
+,9,0.02,,,Kuwait
+,9,0.02,,,Oman
+,12,0.02,,,Réunion
+,12,0.02,,,Sweden
+,9,0.02,,,Turkey
+,5,0.01,,,Bahrain
+,3,0.01,,,Hungary
+,3,0.01,,,Kazakhstan
+,3,0.01,,,South Africa
+,4,0.01,,,Romania
+,4,0.01,,,Colombia
+,4,0.01,,,Peru
+,3,0.01,,,Kenya
+,5,0.01,,,Norway
+,6,0.01,,,Portugal
+,6,0.01,,,New Caledonia
+,6,0.01,,,Argentina
+,7,0.01,,,Greece
+,7,0.01,,,Belgium
+,5,0.01,,,Ukraine
+,7,0.01,,,Denmark
+,1,0.0,,,Nicaragua
+,1,0.0,,,Afghanistan
+,1,0.0,,,Lebanon
+,1,0.0,,,Estonia
+,1,0.0,,,Paraguay
+,1,0.0,,,Papua New Guinea
+,1,0.0,,,Jordan
+,1,0.0,,,Egypt
+,1,0.0,,,Bhutan
+,1,0.0,,,Slovakia
+,1,0.0,,,Norfolk Island
+,1,0.0,,,Panama
+,1,0.0,,,Tonga
+,1,0.0,,,Tanzania
+,1,0.0,,,Bulgaria
+,1,0.0,,,Guatemala
+,1,0.0,,,Algeria
+,2,0.0,,,Croatia
+,1,0.0,,,Seychelles
+,2,0.0,,,Tunisia
+,2,0.0,,,Israel
+,2,0.0,,,Slovenia
+,2,0.0,,,Solomon Islands
+,2,0.0,,,Guam
+,2,0.0,,,Timor-Leste
+,2,0.0,,,Cyprus
+,1,0.0,,,Vanuatu
+,1,0.0,,,Ghana
+,1,0.0,,,Czechia
+,1,0.0,,,Malta
+,1,0.0,,,Gibraltar
+,1,0.0,,,Belarus
+,1,0.0,,,Pakistan
+,1,0.0,,,Iraq
+,1,0.0,,,Svalbard & Jan Mayen
